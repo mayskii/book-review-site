@@ -1,0 +1,10 @@
+.review {
+    background-color: #e6e6e6;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+}
+
+.review p {
+    line-height: 150%;
+}
